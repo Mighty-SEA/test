@@ -1,2 +1,2 @@
 # test
-Just test anityhings
+Just test anything
